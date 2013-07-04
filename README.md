@@ -1,6 +1,7 @@
 # pinsgster
 
-...
+Clojure web app made for Heroku that periodically pings web sites.
+
 
 ## Usage
 

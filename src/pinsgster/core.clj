@@ -1,6 +1,6 @@
-(ns pinsgster.core)
+(ns pinsgster.core
+  "Web app made for Heroku that periodically pings web sites."
+  (:require [clojure.string :as string]
+            [clj-http.client :as http]
+            [cemerick.url :as urls]))
 
-(defn foo
-  "I don't do a whole lot."
-  [x]
-  (println x "Hello, World!"))
