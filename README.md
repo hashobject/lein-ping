@@ -1,6 +1,6 @@
-# pinsgster
+# lein-ping
 
-Clojure web app made for Heroku that periodically pings web sites.
+Leiningen plugin that pings websites/urls.
 
 
 ## Usage
