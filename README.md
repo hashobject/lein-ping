@@ -7,11 +7,14 @@ Leiningen plugin that pings websites/urls.
 
 To use this for project-level plugins please do next steps.
 
-Put `[lein-зштп "0.1.0"]` into the `:plugins` vector of your project.clj.
+Put `[lein-ping "0.1.0"]` into the ':plugins' vector of your project.clj.
 
 Add list of URLs that you want to ping
-into the `:ping-urls` vector of your project.clj
-(e.x. `:ping-urls ["http://blog.hashobject.com/"]`).
+into the ':ping-urls' vector of your project.clj. E.x.
+
+```
+  :ping-urls ["http://blog.hashobject.com/"]
+```
 
 Then just run
 
