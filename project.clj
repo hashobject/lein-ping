@@ -1,6 +1,6 @@
 (defproject lein-ping "0.1.0"
   :description "Leiningen plugin that pings websites/urls."
-  :signing {:gpg-key "HashObject Ltd <team@hashobject.com>"}
+  :signing {:gpg-key "Hashobject Ltd <team@hashobject.com>"}
   :url "https://github.com/hashobject/lein-ping"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
