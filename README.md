@@ -2,6 +2,7 @@
 
 Leiningen plugin that pings websites/urls.
 
+[![Dependencies Status](http://jarkeeper.com/hashobject/lein-ping/status.png)](http://jarkeeper.com/hashobject/lein-ping)
 
 ## Usage
 
