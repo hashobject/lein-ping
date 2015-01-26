@@ -2,7 +2,7 @@
 
 Leiningen plugin that pings websites/urls.
 
-[![Dependencies Status](http://jarkeeper.com/hashobject/lein-ping/status.png)](http://jarkeeper.com/hashobject/lein-ping)
+[![Dependencies Status](http://jarkeeper.com/hashobject/lein-ping/status.svg)](http://jarkeeper.com/hashobject/lein-ping)
 
 ## Usage
 
@@ -46,6 +46,6 @@ We love contributions. Please submit your pull requests.
 
 ## License
 
-Copyright © 2013-2014 Hashobject Ltd (team@hashobject.com).
+Copyright © 2013-2015 Hashobject Ltd (team@hashobject.com).
 
 Distributed under the [Eclipse Public License](http://opensource.org/licenses/eclipse-1.0).
